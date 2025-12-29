@@ -38,17 +38,20 @@ Deployment is not currently in use
 
 ## 💻 Built with
 
-- Java
+- Java 8 (jdk-8u461-windows-i586d)
+- Java 25 (Compatible version)
 - Java Swing
-- Data Structures
-- NetBeans
+- NetBeans 8.2 (Development IDE)
+- Apache NetBeans 28 (Compatible IDE)
 - SQL Database
+- Data Structures
 
 ## 📌 Prerequisites
 
 Before you get started, follow these requirements
 
-- NetBeans
+- Java JDK 8
+- NetBeans 8.2 or Apache NetBeans 28
 - WampServer or XAMPP is good for localhost
 - phpMyAdmin database
 
